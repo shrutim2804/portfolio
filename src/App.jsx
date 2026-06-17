@@ -176,7 +176,11 @@ function App() {
             </div>
             <div className="hero-image">
               <div className="profile-placeholder floating">
-                <img src="/profile.jpeg" alt="Profile" style={{width: '100%', height: '100%', borderRadius: '50%', objectFit: 'cover'}} />
+<img 
+  src="https://res.cloudinary.com/dgipcza0f/image/upload/v1781728507/profile_kk9vsp.jpg" 
+  alt="Profile" 
+  style={{width: '100%', height: '100%', borderRadius: '50%', objectFit: 'cover'}} 
+/>
               </div>
             </div>
           </motion.div>
