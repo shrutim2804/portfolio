@@ -11,7 +11,6 @@ function App() {
   const typedStrings = [
   "Computer Science Undergraduate",
   "Aspiring Software Engineer",
-  "Java Developer",
   "AI & Machine Learning Enthusiast",
   "Problem Solver"
 ];
